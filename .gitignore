@@ -8,3 +8,4 @@ karabiner/automatic_backups/
 !.secretlintrc.json
 !package.json
 !zed/
+!README.md
