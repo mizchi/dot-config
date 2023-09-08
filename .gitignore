@@ -7,3 +7,4 @@ karabiner/automatic_backups/
 !/karabiner
 !.secretlintrc.json
 !package.json
+!zed/

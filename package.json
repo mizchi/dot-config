@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "secretlint zsh/*",
+    "test": "secretlint zsh/* */*.zsh",
     "precommit": "lint-staged"
   },
   "devDependencies": {
