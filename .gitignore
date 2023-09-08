@@ -1,0 +1,9 @@
+/*
+!starship.toml
+!.gitignore
+!zsh/
+!sheldon/
+karabiner/automatic_backups/
+!/karabiner
+!.secretlintrc.json
+!package.json
